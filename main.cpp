@@ -21,6 +21,7 @@ int countIn(string joft, string str)
         }
     }
     return res;
+    // hello
 }
 int main()
 {
